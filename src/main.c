@@ -1,4 +1,5 @@
 #include <stdio.h>
+//
 extern void f1();
 int main()
 {
